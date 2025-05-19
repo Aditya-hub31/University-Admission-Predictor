@@ -75,7 +75,7 @@ Output: Chance of getting into UCLA is 95.23%
 
 ## 📸 App Screenshots
 ![Prediction Screenshot](https://github.com/user-attachments/assets/74d8ec07-49b4-4dd4-ac2a-e637791d6494)
-![Graph Screenshot](https://github.com/user-attachments/assets/2f12dec3-d8ee-4673-96af-966e555d6c3f)
+![Graph Screenshot](![image](https://github.com/user-attachments/assets/c2194707-9477-4f41-951d-f87a0f459d3b))
 
 
 ## 🤝 Connect with Me
